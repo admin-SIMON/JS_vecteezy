@@ -1,1 +1,1 @@
-## James Simon's JS
+## Blog's JS
